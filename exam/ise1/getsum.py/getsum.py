@@ -9,6 +9,6 @@ def get_sum(input_list):
     return total
 
 # Sample usages
-print(get_sum([1, 2.4, 3, '4']))           # Output: 6.4
+print(get_sum([1, 2.4, 3, '4',"3+4j"]))# Output: 6.4
 print(get_sum(["SGGS", [3, '3', [1]], 2])) # Output: 6
 print(get_sum(["1", (2, 3), 1]))           # Output: 6
