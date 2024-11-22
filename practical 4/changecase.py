@@ -1,4 +1,4 @@
-def change_case(text,style):
+ def change_case(text,style):
 #for capital case--->
 	if style=="c"or style=="C":
 		def convert_capital_case(text):
